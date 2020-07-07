@@ -12,7 +12,7 @@ The auth token is persisted in the local git config. This enables your scripts t
 
 When Git 2.18 or higher is not in your PATH, falls back to the REST API to download the files.
 
-# What's new
+# What's new asdfasdfasdf
 
 - Improved performance
   - Fetches only a single commit by default
